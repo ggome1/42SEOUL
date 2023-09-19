@@ -1,2 +1,1 @@
-# 42SEOUL
-# 42SEOUL
+# 42SEOUL by seungjpa
